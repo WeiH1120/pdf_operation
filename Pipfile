@@ -1,0 +1,12 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+pypdf2 = {path = "/root/projects/011553/package/PyPDF2-2.10.3-py3-none-any.whl"}
+
+[dev-packages]
+
+[requires]
+python_version = "3.7"
