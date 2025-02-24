@@ -12,6 +12,9 @@ pipenv shell
 
 <br><br><br>
 
+## pip install
+pip install --upgrade pip
+
 # Execute
 ## cmd
 python .\pdf_merge.py
